@@ -189,7 +189,6 @@ export default function Home() {
         </section>
       </main>
 
-      <aside className="developer-rail" aria-label="Developer log"><span>GE // DEV LOG</span><i /><span>2018 — NOW</span><i /><span>SHOPIFY SYSTEMS</span></aside>
       <footer className="footer"><a href="#top" className="brand"><img src="/manus-storage/geovanny-mark_89da9ed4.png" alt="" className="brand-mark" /><span>GEOVANNY<br />ESCAF</span></a><div className="footer-social"><a href="https://www.linkedin.com" target="_blank" rel="noreferrer" aria-label="LinkedIn"><Linkedin size={17} /></a><a href="https://github.com" target="_blank" rel="noreferrer" aria-label="GitHub"><Github size={17} /></a><a href="https://instagram.com" target="_blank" rel="noreferrer" aria-label="Instagram"><Instagram size={17} /></a></div><span className="footer-copy">© {new Date().getFullYear()} Geovanny Escaf. Built with intent.</span></footer>
     </div>
   );
