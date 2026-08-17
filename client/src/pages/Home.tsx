@@ -108,9 +108,9 @@ export default function Home() {
         <section className="hero section-pad">
           <div className="hero-grid" aria-hidden="true" />
           <div className="hero-copy">
-            <div className="eyebrow-wrap hero-label"><span className="status-dot" />Independent Shopify Developer <span className="hero-location">Available Worldwide</span></div>
+            <div className="eyebrow-wrap hero-label"><span className="status-dot" />Shopify Developer</div>
             <div className="hero-systemline"><ShoppingBag size={13} /> Shopify storefront systems <span /> checkout clarity <span /> commercial build</div>
-            <h1>Design that <em>speaks</em><br />louder than words<span className="accent-period">.</span></h1>
+            <h1>Shopify storefronts<br />built to <em>convert</em><span className="accent-period">.</span></h1>
             <p className="hero-intro">I build thoughtful Shopify storefronts for brands ready to feel sharper, move faster, and sell with intent.</p>
             <div className="hero-actions">
               <a className="button button-primary" href="#work">Explore selected work <ArrowDownRight size={17} /></a>
